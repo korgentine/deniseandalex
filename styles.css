@@ -37,3 +37,20 @@ p.header {
     letter-spacing: 2px;
     text-transform: uppercase;
 }
+
+.img-bg {
+    width: 100%;
+}
+
+.floral {
+    margin-top: -400px;
+}
+
+.thank-you-note {
+    display: flex;
+    margin-top: -240px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 60px;
+    max-width: 480px;
+}
