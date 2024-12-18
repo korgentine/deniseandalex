@@ -54,3 +54,17 @@ p.header {
     margin-bottom: 60px;
     max-width: 480px;
 }
+
+.gallery-button {
+    display: inline-block;
+    padding: 12px 24px;
+    background-color: #FFE4E1; /* Light pink */
+    color: #000000;
+    text-decoration: none;
+    border-radius: 4px;
+    transition: background-color 0.3s ease;
+}
+
+.gallery-button:hover {
+    background-color: #FFD1DC; /* Slightly darker pink on hover */
+}
